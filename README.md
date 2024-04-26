@@ -7,9 +7,10 @@ I am DraSoGo.I like everything about computer and I love to sleep 😴
 
 # ⚡ Status
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraSoGo&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraSoGo&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraSoGo&layout=compact)
 <!--
 **DraSoGo/DraSoGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
