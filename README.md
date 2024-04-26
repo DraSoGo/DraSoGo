@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
+### 📞 Discord : drasogun
+# 💻 Computer language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraSoGo&exclude_repo=github-readme-stats,anuraghazra.github.io)
 <!--
 **DraSoGo/DraSoGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
