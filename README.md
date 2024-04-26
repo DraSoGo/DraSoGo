@@ -1,7 +1,7 @@
-### 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
+# 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
 
 📞 Discord : drasogun
-### 💻 About me
+# 💻 About me
 
 I am DraSoGo.I like everything about computer and I love to sleep 😴
 
