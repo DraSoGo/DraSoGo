@@ -12,7 +12,6 @@ I am DraSoGo.I like everything about computer and I love to sleep 😴
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraSoGo&show_icons=true&theme=midnight-purple)
 
-https://www.notion.so/7df36efe73aa4e7ab5646766f2cfa491?v=f298a542f5c748b59e8d4be432c5b408&pvs=4
 
 
 
