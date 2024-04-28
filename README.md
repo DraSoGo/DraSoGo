@@ -8,7 +8,6 @@ I am DraSoGo.I like everything about computer and I love to sleep 😴
 # ⚡ Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraSoGo&layout=compact&theme=midnight-purple)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DraSoGo&repo=MY-CODE-CP&theme=midnight-purple&show_owner)](https://github.com/DraSoGo/MY-CODE-CP)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DraSoGo&show_icons=true&theme=midnight-purple)
 
