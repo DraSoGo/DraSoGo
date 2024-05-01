@@ -14,7 +14,7 @@ I am DraSoGo.I like everything about computer and I love to sleep 😴
 
 # 📞 Contact me
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF)][discord]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF)][instagram]
 
 [discord]:https://discordapp.com/users/738910545951850578
 [instagram]:https://www.instagram.com/guntinun_sawatdeekub/
