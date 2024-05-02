@@ -1,8 +1,13 @@
 ## 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
 
+## 📞 Contact me
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF)][instagram]
+[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=FFFFFF)][line]
+
 ## 💻 About me
 
-I am DraSoGo.I like everything about computer and I love to sleep 😴
+I am DraSoGo.I like everything about computers and I love to sleep 😴
 
 ## ⚡ Status
 
@@ -12,10 +17,6 @@ I am DraSoGo.I like everything about computer and I love to sleep 😴
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DraSoGo&repo=MY-CODE-CP&theme=midnight-purple&show_owner)](https://github.com/DraSoGo/MY-CODE-CP" height="80">
 </div>
 
-## 📞 Contact me
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF)][instagram]
-[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=FFFFFF)][line]
 
 [discord]:https://discordapp.com/users/738910545951850578
 [instagram]:https://www.instagram.com/guntinun_sawatdeekub/
