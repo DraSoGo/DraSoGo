@@ -1,4 +1,4 @@
-## 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
+# 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
 
 ## 📞 Contact me
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
