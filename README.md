@@ -1,9 +1,10 @@
 # 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
-
+<!--
 ## 📞 Contact me
+
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF)][instagram]
-[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=FFFFFF)][line]
+[![line](https://img.shields.io/badge/LINE-00C300?style=flat&logo=line&logoColor=FFFFFF)][line]-->
 
 ## 💻 About me
 
