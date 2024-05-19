@@ -1,4 +1,4 @@
-# 👋 Hi My Name DraSoGo
+# 👋 Hi My Name DraSoGo(Guntinun Sawatvong)
 
 ## 📞 Contact me
 
