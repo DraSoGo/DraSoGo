@@ -17,7 +17,9 @@ I am DraSoGo.I like everything about computers and I love to sleep 😴
   <img src = "https://github-readme-stats.vercel.app/api?username=DraSoGo&show_icons=true&theme=midnight-purple" height="120">
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=DraSoGo&repo=MY-CODE-CP&theme=midnight-purple&show_owner)](https://github.com/DraSoGo/MY-CODE-CP" height="80">
 </div>
+### GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=DraSoGo&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 [discord]:https://discordapp.com/users/738910545951850578
 [instagram]:https://www.instagram.com/guntinun_sawatdeekub/
