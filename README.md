@@ -79,13 +79,6 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 
 ---
 
-### 🏆 Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=DraSoGo&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
 ### 📞 Contact Me
 
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
