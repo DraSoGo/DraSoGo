@@ -35,8 +35,8 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 * 🥇 **Gold Medal** - Thailand I-New Gen Award
 * 🏆 **The Best Technique Award** - Thailand CANSAT Rocket Competition
 * 🥈 **Silver Medal** - Innovedex Robotics Competition Thailand 2024
-* 🏅 **Participant** - 20th Thailand Olympiad in Informatics (TOI 20)
-* 🏅 **Participant** - 21st Thailand Olympiad in Informatics (TOI 21)
+* 💻 **Participant** - 20th Thailand Olympiad in Informatics (TOI 20)
+* 💻 **Participant** - 21st Thailand Olympiad in Informatics (TOI 21)
 
 **Regional & Others**
 * 🥈 **2nd Place** - Capture The Flag (CTF) by CoE @ PSU
