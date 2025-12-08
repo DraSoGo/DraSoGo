@@ -16,7 +16,7 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 
 ### 👨‍🏫 Experience & Internships
 
-* **Engineering Intern Trainee** at CPram (via FIBO Academy)
+* **Engineering Intern (Project-Based)** at CPram (via FIBO Academy)
 * **Teaching Assistant (TA)** at POSN Computer Olympiad Camp 1
 * **Teaching Assistant (TA)** at POSN Computer Olympiad Camp 2
 
