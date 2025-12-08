@@ -25,14 +25,19 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 ### 🏆 Honors & Awards
 
 **International Level**
-* 🥇 **Gold Medal** - International Invention Competition For Young Moslem Scientists (IICYMS)
+* 🥇 **Gold Medal** - International Invention Competition For Young Moslem Scientists (IICYMS) 2024
+* 🥇 **Gold Medal** - International Science And Invention Fair (ISIF) 2024
+* 🥈 **Silver Medal** - World Invention Competition and Exhibition (WICE) 2025
 
 **National Level**
 * 🥇 **Winner (1st Place)** - Thailand Cyber Top Talent 2025
 * 🥇 **Gold Medal** - Thailand Young Physicists' Tournament (TYPT)
-* 🥇 **Gold Medal** - Thailand I-New Gen Award
-* 🏆 **The Best Technique Award** - Thailand CANSAT Rocket Competition
+* 🥇 **Gold Medal** - Thailand I-New Gen Award 2025
+* 🏆 **The Best Technique Award** - Thailand CANSAT Rocket Competition 2025
+* 🥈 **1st Runner-up** - CE Next Gen 3 (Earthquake Detection System)
 * 🥈 **Silver Medal** - Innovedex Robotics Competition Thailand 2024
+* 🥈 **Silver Medal** - Southern Inventor Award 2024
+* 🚀 **Qualified (Top 35 Teams)** - THE CubeSat Quest 2025 “Exploring the Beyond”
 * 💻 **Participant** - 20th Thailand Olympiad in Informatics (TOI 20)
 * 💻 **Participant** - 21st Thailand Olympiad in Informatics (TOI 21)
 
@@ -48,11 +53,14 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 
 ### 🚩 Leadership & Activities
 
+* **International Academic & Cultural Exchange:** Participated in the exchange program with AY Nara Prefectural Seisho High School, Japan.
 * **Student Council Committee (Academic Year 2025):** Head of Academic Affairs
 * **Student Council Committee (Academic Year 2024):** Head of General Administration
+* **Teaching Assistant:** POSN Computer Olympiad Camp 1 & 2
+* **Official Photographer/Camera Team:** Caremass (Gen 11), an independent student organization documenting school events.
+* **Broadcasting Club Staff:** Managed school announcements and media production (School Broadcasting Club).
 * **Light & Sound Controller:** The 4/2024 School Administrators Meeting, Nakhon Si Thammarat
 * **Event Photographer:** Innovative Leaders for SDGs
-* **Teaching Assistant:** POSN Computer Olympiad Camp 1 & 2
 
 <br/>
 
