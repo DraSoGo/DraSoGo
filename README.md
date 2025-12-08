@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9E58FF&width=435&lines=Hi+My+Name+is+DraSoGo" alt="Typing SVG" />
 
-<br/>
+---
 
 ### 👨‍💻 About Me
 
