@@ -54,8 +54,8 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 ### 🚩 Leadership & Activities
 
 * **International Academic & Cultural Exchange:** Participated in the exchange program with AY Nara Prefectural Seisho High School, Japan.
-* **Student Council Committee (Academic Year 2025):** Head of Academic Affairs
-* **Student Council Committee (Academic Year 2024):** Head of General Administration
+* **Student Council Committee (Academic Year 2025):** Academic Affairs
+* **Student Council Committee (Academic Year 2024):** General Administration
 * **Teaching Assistant:** POSN Computer Olympiad Camp 1 & 2
 * **Official Photographer/Camera Team:** Caremass (Gen 11), an independent student organization documenting school events.
 * **Broadcasting Club Staff:** Managed school announcements and media production (School Broadcasting Club).
