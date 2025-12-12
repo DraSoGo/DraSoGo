@@ -6,7 +6,7 @@ I am **Gun** (Guntinun Sawatvong).
 <br/>
 Currently a student at **Princess Chulabhorn Science High School, Nakhon Si Thammarat (PCSHS NST)**.
 <br/>
-I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecurity.
+I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cybersecurity.
 
 <br/>
 
@@ -40,11 +40,14 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 * 🚀 **Qualified (Top 35 Teams)** - THE CubeSat Quest 2025 “Exploring the Beyond”
 * 💻 **Participant** - 20th Thailand Olympiad in Informatics (TOI 20)
 * 💻 **Participant** - 21st Thailand Olympiad in Informatics (TOI 21)
-
-**Regional & Others**
 * 🥈 **2nd Place** - Capture The Flag (CTF) by CoE @ PSU
 * 🥈 **Silver Medal** - Southern Inventor Award 2024
 * 🥉 **Bronze Medal** - PCSHS Science Symposium 2025
+
+**Regional & Others**
+* 🥇 **Winner (1st Place)** - Science and Technology Skills Competition Science Week 2023 RUTS
+* 🥇 **Winner (1st Place)** - Computer Programming Competition The 72nd Student Arts and Crafts Competition
+* 🥉 **3rd Place** - Computer Project Competition: Software Category The 72nd Student Arts and Crafts Competition
 * 🎖️ **Honorable Mention** - Coding Bootcamp
 
 <br/>
@@ -54,6 +57,7 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, and Cybersecu
 ### 🚩 Leadership & Activities
 
 * **International Academic & Cultural Exchange:** Participated in the exchange program with AY Nara Prefectural Seisho High School, Japan.
+* **Cultural Exchange:** Nara Prefectural Seisho High School, JAPAN Present PNAAC Club
 * **Student Council Committee (Academic Year 2025):** Academic Affairs
 * **Student Council Committee (Academic Year 2024):** General Administration
 * **Teaching Assistant:** POSN Computer Olympiad Camp 1 & 2
