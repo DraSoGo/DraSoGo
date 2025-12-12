@@ -35,19 +35,19 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 * 🥇 **Gold Medal** - Thailand I-New Gen Award 2025
 * 🏆 **The Best Technique Award** - Thailand CANSAT Rocket Competition 2025
 * 🥈 **1st Runner-up** - CE Next Gen 3 (Earthquake Detection System)
+* 🥈 **1st Runner-up** - Capture The Flag (CTF) by CoE @ PSU
+* 🥈 **Silver Medal** - Southern Inventor Award 2024
 * 🥈 **Silver Medal** - Innovedex Robotics Competition Thailand 2024
 * 🥈 **Silver Medal** - Southern Inventor Award 2024
+* 🥉 **Bronze Medal** - PCSHS Science Symposium 2025
 * 🚀 **Qualified (Top 35 Teams)** - THE CubeSat Quest 2025 “Exploring the Beyond”
 * 💻 **Participant** - 20th Thailand Olympiad in Informatics (TOI 20)
 * 💻 **Participant** - 21st Thailand Olympiad in Informatics (TOI 21)
-* 🥈 **2nd Place** - Capture The Flag (CTF) by CoE @ PSU
-* 🥈 **Silver Medal** - Southern Inventor Award 2024
-* 🥉 **Bronze Medal** - PCSHS Science Symposium 2025
 
 **Regional & Others**
 * 🥇 **Winner (1st Place)** - Science and Technology Skills Competition Science Week 2023 RUTS
 * 🥇 **Winner (1st Place)** - Computer Programming Competition The 72nd Student Arts and Crafts Competition
-* 🥉 **3rd Place** - Computer Project Competition: Software Category The 72nd Student Arts and Crafts Competition
+* 🥉 **2nd Runner-up** - Computer Project Competition: Software Category The 72nd Student Arts and Crafts Competition
 * 🎖️ **Honorable Mention** - Coding Bootcamp
 
 <br/>
