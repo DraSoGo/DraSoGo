@@ -5,6 +5,7 @@
 I am **Gun** (Guntinun Sawatvong).
 <br/>
 I graduated from **Princess Chulabhorn Science High School, Nakhon Si Thammarat (PCSHS NST)**.
+<br/>
 Incoming Freshman at **Chulalongkorn University (CU)** in Computer Engineering and Digital Technology (CEDT)
 <br/>
 I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cybersecurity.
