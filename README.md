@@ -8,8 +8,6 @@ Currently a student at **Princess Chulabhorn Science High School, Nakhon Si Tham
 <br/>
 I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cybersecurity.
 
-<br/>
-
 ---
 
 ### 👨‍🏫 Experience & Internships
@@ -17,8 +15,6 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 * **Engineering Intern (Project-Based)** at CPram (via FIBO Academy)
 * **Teaching Assistant (TA)** at POSN Computer Olympiad Camp 1
 * **Teaching Assistant (TA)** at POSN Computer Olympiad Camp 2
-
-<br/>
 
 ---
 
@@ -50,8 +46,6 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 * 🥉 **2nd Runner-up** - Computer Project Competition: Software Category The 72nd Student Arts and Crafts Competition
 * 🎖️ **Honorable Mention** - Coding Bootcamp
 
-<br/>
-
 ---
 
 ### 🚩 Leadership & Activities
@@ -65,8 +59,6 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 * **Broadcasting Club Staff:** Managed school announcements and media production (School Broadcasting Club).
 * **Light & Sound Controller:** The 4/2024 School Administrators Meeting, Nakhon Si Thammarat
 * **Event Photographer:** Innovative Leaders for SDGs
-
-<br/>
 
 ---
 
