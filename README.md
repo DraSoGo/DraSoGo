@@ -83,11 +83,6 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 
 ---
 
-## 👾 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DraSoGo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ### 📞 Contact Me
 
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF)][discord]
@@ -97,3 +92,7 @@ I am passionate about Computer Engineering, IoT, Embedded Systems, AI, and Cyber
 [discord]:https://discordapp.com/users/738910545951850578
 [instagram]:https://www.instagram.com/guntinun_sawatdeekub/
 [line]:https://line.me/ti/p/~gungun4771
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
